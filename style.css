@@ -285,6 +285,10 @@ li {
     max-width: 32rem;
 }
 
+.contactUs p span{
+    font-weight: bold;
+}
+
 .contactSocial {
     font-size: 2rem;
 }
